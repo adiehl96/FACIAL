@@ -26,7 +26,7 @@ PyTorch implementation for the paper:
 
 
 ## Run the test demo on Google Colab 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iQiQeFAPoQ0jO1dstPHJDvaTJRV9uE9O)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiehl96/FACIAL/blob/main/facial_demo.ipynb)
 
 
 ## Requirements
