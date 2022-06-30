@@ -22,7 +22,7 @@ PyTorch implementation for the paper:
 
 
 ## Update: train a new person on Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z1tFPFf-O_HpaxshTqKM24TC_rrjR7Xc?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiehl96/FACIAL/blob/main/facial_demo_train.ipynb)
 
 
 ## Run the test demo on Google Colab 
